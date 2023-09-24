@@ -1,4 +1,4 @@
-package employeeApp;
+package com.workintech.employeeApp;
 
 /**
  * Uygulamanın amacı Java'da nesne tabanlı programlamanın temellerinin oluşturulmasıdır.
